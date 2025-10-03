@@ -10,12 +10,12 @@ Foco inicial na lógica de programação e na documentação/planejamento de sis
 
 ### 💻 Documentação e Arquitetura
 * **Portfólio de Projeto de Software (Scrum):**
-    > Documentação do planejamento ágil do App "+Equilíbrio".
-    > [Acessar Projeto](**https://github.com/Josiane-Alves-ADS/app-mais-equilibrio-scrum**)
+    > Documentação do planejamento ágil do App "+Equilíbrio".
+    > [**Acessar Projeto**](https://github.com/Josiane-Alves-ADS/app-mais-equilibrio-scrum)
 
 * **Portfólio de Redes de Computadores:**
-    > Simulação de rede corporativa com VLANs, roteamento inter-VLAN e DHCP.
-    > [Acessar Projeto](**https://github.com/Josiane-Alves-ADS/portfolio-redes-ads**)
+    > Simulação de rede corporativa com VLANs, roteamento inter-VLAN e DHCP.
+    > [**Acessar Projeto**](https://github.com/Josiane-Alves-ADS/portfolio-redes-ads)
 
 ---
 
