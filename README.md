@@ -20,15 +20,16 @@ Foco inicial na lógica de programação e na documentação/planejamento de sis
     
 ---
 
-2º Semestre | Introdução à Programação (Python)
+## 2º Semestre | Introdução à Programação (Python)
 
 Início do desenvolvimento de código e scripts, com foco na linguagem Python.
 
-🧠 Projetos da Disciplina: Introdução ao Python
+### 🧠 Consolidação do Portfólio Python
 
-Consolidação: Os pequenos projetos e exercícios de Python foram consolidados em um único repositório **("Python-Portfólio-ADS")**, que demonstra o domínio completo dos fundamentos da linguagem, estruturas de dados, POO, Data Science e Machine Learning.
-
-[Acessar o Repositório Completo de Python](https://github.com/Josiane-Alves-ADS/Python-Fundamentos-ADS)
+* **Projetos da Disciplina:**
+    > Os pequenos projetos e exercícios de Python foram consolidados em um único repositório **("Python-Portfólio-ADS")**, que demonstra o domínio completo dos fundamentos da linguagem, estruturas de dados, POO, Data Science e Machine Learning.
+    >
+    > [**Acessar o Repositório Completo de Python**](https://github.com/Josiane-Alves-ADS/Python-Fundamentos-ADS)
 
 ---
 
